@@ -18,4 +18,3 @@ data "spotify_track" "counting_stars" {
 }
 data "spotify_track" "animals" {
   url = "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
-}
